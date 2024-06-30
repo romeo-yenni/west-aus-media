@@ -1,5 +1,4 @@
-# Project Name
-WAN technical assessment
+# WAN technical assessment
 
 ## Description
 
