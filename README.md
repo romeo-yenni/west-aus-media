@@ -2,7 +2,7 @@
 
 ## Description
 
-A webpage of a news homepage, that uses react, typescript, and tailwindcss
+A webpage of a news homepage, that uses react, typescript, and tailwindcss.
 Articles on right side will 'open/close' on hover
 
 ## Installation
